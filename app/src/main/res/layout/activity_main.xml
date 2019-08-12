@@ -18,6 +18,7 @@
 
             <ImageView
                     android:id="@+id/img_left"
+                    android:contentDescription="@string/flowers"
                     android:src="@drawable/abstract_abstract_expressionism_art_2505693"
                     style="@style/VerticalColumnImg"/>
 
@@ -29,6 +30,7 @@
 
             <ImageView
                     android:id="@+id/img_right"
+                    android:contentDescription="@string/a_car"
                     android:src="@drawable/adventure_automobile_classic_2533092"
                     style="@style/VerticalColumnImg"/>
 
