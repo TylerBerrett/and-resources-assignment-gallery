@@ -14,11 +14,26 @@
 
         <LinearLayout
                 android:id="@+id/display_img_left"
-                style="@style/VerticalColumn"/>
+                style="@style/VerticalColumn">
+
+            <ImageView
+                    android:id="@+id/img_left"
+                    android:src="@drawable/abstract_abstract_expressionism_art_2505693"
+                    style="@style/VerticalColumnImg"/>
+
+        </LinearLayout>
 
         <LinearLayout
                 android:id="@+id/display_img_right"
-                style="@style/VerticalColumn"/>
+                style="@style/VerticalColumn">
+
+            <ImageView
+                    android:id="@+id/img_right"
+                    android:src="@drawable/adventure_automobile_classic_2533092"
+                    style="@style/VerticalColumnImg"/>
+
+
+        </LinearLayout>
 
 
 
