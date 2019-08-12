@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GalleryApp</string>
+    <string name="flowers">Flowers</string>
+    <string name="a_car">A Car</string>
+    <string name="backyard">View from my backyard</string>
+    <string name="Wakanda">Aerial view of Wakanda</string>
+    <string name="Alleyway">Alleyway</string>
+    <string name="bridge">Bridge</string>
+    <string name="canada">Canada</string>
+    <string name="flora">Flora</string>
+    <string name="colors">Colors</string>
+    <string name="coconut">Coconut trees</string>
+    <string name="house">Houses</string>
+    <string name="space">Space</string>
+</resources>
